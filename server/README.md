@@ -1,6 +1,6 @@
 # daily-life-management-system-for-college-students-server
 
-
+** 使用文档: ** https://blog.si-yee.com/sf-admin-cli/
 
 ## 项目初始化
 ```
