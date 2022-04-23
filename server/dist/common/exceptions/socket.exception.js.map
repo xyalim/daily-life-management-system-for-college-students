@@ -1,0 +1,1 @@
+{"version":3,"file":"socket.exception.js","sourceRoot":"","sources":["../../../src/common/exceptions/socket.exception.ts"],"names":[],"mappings":";;;AAAA,mDAAiD;AACjD,yEAA+D;AAE/D,MAAa,eAAgB,SAAQ,wBAAW;IAG9C,YAAY,SAAiB;QAC3B,KAAK,CAAC,kCAAY,CAAC,SAAS,CAAC,CAAC,CAAC;QAC/B,IAAI,CAAC,SAAS,GAAG,SAAS,CAAC;IAC7B,CAAC;IAED,YAAY;QACV,OAAO,IAAI,CAAC,SAAS,CAAC;IACxB,CAAC;CACF;AAXD,0CAWC"}
