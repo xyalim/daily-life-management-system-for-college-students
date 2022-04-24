@@ -5,6 +5,7 @@
 <script>
 import { mapGetters } from 'vuex'
 import { ref, onMounted } from '@vue/composition-api'
+import { useFetch } from '@vueuse/core'
 export default {
   name: 'Dashboard',
   computed: {
@@ -13,6 +14,8 @@ export default {
   setup(props, ctx) {
     console.log(props, ctx)
     const content = ref('this is  admin')
+
+    useFetch('api/sch/major/info')
 
     onMounted((props, ctx) => {
       console.log(props, ctx)
