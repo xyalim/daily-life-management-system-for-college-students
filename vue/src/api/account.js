@@ -9,7 +9,7 @@ export function updateAccountInfo(data) {
 }
 
 export function updatePassword(data) {
-  return request({
+  return request({ 
     url: 'account/password',
     method: 'post',
     data
